@@ -1,0 +1,141 @@
+<resources>
+    <string name="app_name">Covid News Tracking App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Strings For Order-By Preference -->
+    <string name="settings_sort_by_label">Sort By</string>
+    <string name="settings_sort_by_key" translatable="false">sort</string>
+    <string name="settings_sort_by_default" translatable="false">@string/settings_sort_by_newest_value</string>
+
+    <string name="settings_sort_by_newest_label">Newest</string>
+    <string name="settings_sort_by_newest_value" translatable="false">published_desc</string>
+
+    <string name="settings_sort_by_oldest_label">Oldest</string>
+    <string name="settings_sort_by_oldest_value" translatable="false">published_asc</string>
+
+    <string name="settings_sort_by_most_popular_label">Most Popular</string>
+    <string name="settings_sort_by_most_popular_value" translatable="false">popularity</string>
+
+    <!-- Strings For Languages Preference -->
+    <string name="settings_language_label">Language</string>
+    <string name="settings_language_key" translatable="false">languages</string>
+    <string name="settings_language_default" translatable="false">@string/settings_language_english_value</string>
+
+    <string name="settings_language_english_label">English</string>
+    <string name="settings_language_english_value" translatable="false">en</string>
+
+    <string name="settings_language_french_label">French</string>
+    <string name="settings_language_french_value" translatable="false">fr</string>
+
+    <string name="settings_language_spanish_label">Spanish</string>
+    <string name="settings_language_spanish_value" translatable="false">es</string>
+
+    <string name="settings_language_german_label">German</string>
+    <string name="settings_language_german_value" translatable="false">de</string>
+
+    <string name="settings_language_chinese_label">Chinese</string>
+    <string name="settings_language_chinese_value" translatable="false">zh</string>
+
+    <!-- Strings For Countries Preference -->
+    <string name="settings_countries_label">Countries</string>
+    <string name="settings_countries_key" translatable="false">countries</string>
+    <string name="settings_countries_default" translatable="false">@string/settings_countries_canada_value</string>
+
+    <string name="settings_countries_canada_label">Canada</string>
+    <string name="settings_countries_canada_value" translatable="false">ca</string>
+
+    <string name="settings_countries_france_label">France</string>
+    <string name="settings_countries_france_value" translatable="false">fr</string>
+
+    <string name="settings_countries_mexico_label">Mexico</string>
+    <string name="settings_countries_mexico_value" translatable="false">mx</string>
+
+    <string name="settings_countries_germany_label">Germany</string>
+    <string name="settings_countries_germany_value" translatable="false">de</string>
+
+    <string name="settings_countries_china_label">China</string>
+    <string name="settings_countries_china_value" translatable="false">cn</string>
+
+    <!-- Strings For Covid Cases Region Preference -->
+    <string name="settings_region_label">Region</string>
+    <string name="settings_region_key" translatable="false">loc</string>
+    <string name="settings_region_default" translatable="false">@string/settings_region_canada_value</string>
+
+    <string name="settings_region_canada_label">Canada</string>
+    <string name="settings_region_canada_value" translatable="false">prov</string>
+
+    <string name="settings_region_bc_label">British Columbia</string>
+    <string name="settings_region_bc_value" translatable="false">BC</string>
+
+    <string name="settings_region_alberta_label">Alberta</string>
+    <string name="settings_region_alberta_value" translatable="false">AB</string>
+
+    <string name="settings_region_manitoba_label">Manitoba</string>
+    <string name="settings_region_manitoba_value" translatable="false">MB</string>
+
+    <string name="settings_region_new_brunswick_label">New Brunswick</string>
+    <string name="settings_region_new_brunswick_value" translatable="false">NB</string>
+
+    <string name="settings_region_newfoundland_labrador_label">Newfoundland and Labrador</string>
+    <string name="settings_region_newfoundland_labrador_value" translatable="false">NL</string>
+
+    <string name="settings_region_northwest_territories_label">Northwest Territories</string>
+    <string name="settings_region_northwest_territories_value" translatable="false">NT</string>
+
+    <string name="settings_region_nova_scotia_label">Nova Scotia</string>
+    <string name="settings_region_nova_scotia_value" translatable="false">NS</string>
+
+    <string name="settings_region_nunavut_label">Nunavut</string>
+    <string name="settings_region_nunavut_value" translatable="false">NU</string>
+
+    <string name="settings_region_ontario_label">Ontario</string>
+    <string name="settings_region_ontario_value" translatable="false">ON</string>
+
+    <string name="settings_region_prince_edward_island_label">Prince Edward Island</string>
+    <string name="settings_region_prince_edward_island_value" translatable="false">PE</string>
+
+    <string name="settings_region_quebec_label">Quebec</string>
+    <string name="settings_region_quebec_value" translatable="false">QC</string>
+
+    <string name="settings_region_saskatchewan_label">Saskatchewan</string>
+    <string name="settings_region_saskatchewan_value" translatable="false">SK</string>
+
+    <string name="settings_region_yukon_label">Yukon</string>
+    <string name="settings_region_yukon_value" translatable="false">YT</string>
+
+    <!-- Strings For Settings -->
+    <string name="settings_restore_label">Restore Default Settings</string>
+    <string name="settings_restore_key" translatable="false">reset</string>
+
+    <string name="settings_clear_label">Clear Bookmarked List</string>
+    <string name="settings_clear_key" translatable="false">clear</string>
+    <string name="noList_text_view_error_message_429">Too Many HTTP Requests</string>
+    <string name="noList_text_view_error_message_400">No Internet Connection</string>
+    <string name="noList_text_view_error_message_1">No Articles Found</string>
+    <string name="new_cases">New Cases</string>
+    <string name="location">Location</string>
+    <string name="date">Date</string>
+    <string name="active_cases">Active Cases</string>
+    <string name="news_fragment_action_bar_title">COVID-19 News Feed</string>
+    <string name="covid_cases_fragment_action_bar_title">COVID-19 Cases</string>
+    <string name="favorite_fragment_action_bar_title">Bookmarked Articles</string>
+    <string name="news_feed_menu">News Feed</string>
+    <string name="covid_cases_menu">Covid Cases</string>
+    <string name="bookmarked_menu">Bookmarked</string>
+    <string name="settings_menu">Settings</string>
+    <string name="preferences_menu">Preferences</string>
+    <string name="covid_tracking_app">Covid Tracking App</string>
+    <string name="settings">Settings</string>
+    <string name="reset">Reset</string>
+    <string name="covid_cases_preferences">Covid Cases Preferences</string>
+    <string name="news_feed_preferences">News Feed Preferences</string>
+    <string name="deaths">Deaths</string>
+    <string name="article_deleted">Article Deleted</string>
+    <string name="article_removed">Article Removed</string>
+    <string name="article_added">Article Added</string>
+    <string name="defaults_restored">Default Settings Restored</string>
+    <string name="bookmarks_deleted">Bookmarks Deleted</string>
+
+
+</resources>

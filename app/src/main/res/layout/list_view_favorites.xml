@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="16dp"
+    android:layout_marginTop="8dp"
+    android:layout_marginEnd="16dp"
+    android:layout_marginBottom="8dp"
+    app:cardBackgroundColor="@color/white"
+    app:cardCornerRadius="4dp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/main_constraint_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/article_image_view"
+            style="@style/newsArticleImage"
+            android:maxHeight="260dp"
+            app:layout_constraintLeft_toLeftOf="@id/main_constraint_layout"
+            app:layout_constraintRight_toRightOf="@id/main_constraint_layout"
+            app:layout_constraintTop_toTopOf="@id/main_constraint_layout" />
+
+        <TextView
+            android:id="@+id/article_title_text_view"
+            style="@style/newsArticleTitle"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:text="This is a sample title for an article"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/article_image_view" />
+
+        <TextView
+            android:id="@+id/article_author_text_view"
+            style="@style/newsArticleAuthor"
+            android:ellipsize="end"
+            android:text="global news"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/article_title_text_view" />
+
+        <TextView
+            android:id="@+id/article_date_text_view"
+            style="@style/newsArticleDate"
+            android:text="3 hours ago"
+            app:layout_constraintLeft_toLeftOf="@id/article_author_text_view"
+            app:layout_constraintTop_toBottomOf="@id/article_author_text_view" />
+
+        <ImageButton
+            android:id="@+id/delete_button"
+            style="@style/toggleButton"
+            android:background="@drawable/ic_baseline_delete_24"
+            app:layout_constraintBottom_toBottomOf="@id/article_date_text_view"
+            app:layout_constraintRight_toRightOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</androidx.cardview.widget.CardView>

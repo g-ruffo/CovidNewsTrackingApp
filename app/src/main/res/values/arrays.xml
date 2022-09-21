@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Strings For Order-By Preference -->
+    <string-array name="settings_sort_by_labels">
+        <item>@string/settings_sort_by_newest_label</item>
+        <item>@string/settings_sort_by_oldest_label</item>
+        <item>@string/settings_sort_by_most_popular_label</item>
+    </string-array>
+
+    <string-array name="settings_sort_by_values">
+        <item>@string/settings_sort_by_newest_value</item>
+        <item>@string/settings_sort_by_oldest_value</item>
+        <item>@string/settings_sort_by_most_popular_value</item>
+    </string-array>
+
+    <!-- Strings For Language Preference -->
+    <string-array name="settings_language_labels">
+        <item>@string/settings_language_english_label</item>
+        <item>@string/settings_language_french_label</item>
+        <item>@string/settings_language_spanish_label</item>
+        <item>@string/settings_language_german_label</item>
+        <item>@string/settings_language_chinese_label</item>
+
+    </string-array>
+
+    <string-array name="settings_language_values">
+        <item>@string/settings_language_english_value</item>
+        <item>@string/settings_language_french_value</item>
+        <item>@string/settings_language_spanish_value</item>
+        <item>@string/settings_language_german_value</item>
+        <item>@string/settings_language_chinese_value</item>
+    </string-array>
+
+    <!-- Strings For Countries Preference -->
+    <string-array name="settings_countries_labels">
+        <item>@string/settings_countries_canada_label</item>
+        <item>@string/settings_countries_france_label</item>
+        <item>@string/settings_countries_mexico_label</item>
+        <item>@string/settings_countries_germany_label</item>
+        <item>@string/settings_countries_china_label</item>
+
+    </string-array>
+
+    <string-array name="settings_countries_values">
+        <item>@string/settings_countries_canada_value</item>
+        <item>@string/settings_countries_france_value</item>
+        <item>@string/settings_countries_mexico_value</item>
+        <item>@string/settings_countries_germany_value</item>
+        <item>@string/settings_countries_china_value</item>
+    </string-array>
+
+    <!-- Strings For Region Preference -->
+    <string-array name="settings_region_labels">
+        <item>@string/settings_region_canada_label</item>
+        <item>@string/settings_region_alberta_label</item>
+        <item>@string/settings_region_bc_label</item>
+        <item>@string/settings_region_manitoba_label</item>
+        <item>@string/settings_region_new_brunswick_label</item>
+        <item>@string/settings_region_newfoundland_labrador_label</item>
+        <item>@string/settings_region_northwest_territories_label</item>
+        <item>@string/settings_region_nova_scotia_label</item>
+        <item>@string/settings_region_nunavut_label</item>
+        <item>@string/settings_region_ontario_label</item>
+        <item>@string/settings_region_prince_edward_island_label</item>
+        <item>@string/settings_region_quebec_label</item>
+        <item>@string/settings_region_saskatchewan_label</item>
+        <item>@string/settings_region_yukon_label</item>
+
+    </string-array>
+
+    <string-array name="settings_region_values">
+        <item>@string/settings_region_canada_value</item>
+        <item>@string/settings_region_alberta_value</item>
+        <item>@string/settings_region_bc_value</item>
+        <item>@string/settings_region_manitoba_value</item>
+        <item>@string/settings_region_new_brunswick_value</item>
+        <item>@string/settings_region_newfoundland_labrador_value</item>
+        <item>@string/settings_region_northwest_territories_value</item>
+        <item>@string/settings_region_nova_scotia_value</item>
+        <item>@string/settings_region_nunavut_value</item>
+        <item>@string/settings_region_ontario_value</item>
+        <item>@string/settings_region_prince_edward_island_value</item>
+        <item>@string/settings_region_quebec_value</item>
+        <item>@string/settings_region_saskatchewan_value</item>
+        <item>@string/settings_region_yukon_value</item>
+    </string-array>
+
+
+</resources>

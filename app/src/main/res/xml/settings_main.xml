@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/settings">
+
+    <PreferenceCategory android:title="@string/news_feed_preferences">
+
+        <ListPreference
+            android:defaultValue="@string/settings_sort_by_default"
+            android:entries="@array/settings_sort_by_labels"
+            android:entryValues="@array/settings_sort_by_values"
+            android:key="@string/settings_sort_by_key"
+            android:summary="%s"
+            android:title="@string/settings_sort_by_label" />
+
+        <ListPreference
+            android:defaultValue="@string/settings_language_default"
+            android:entries="@array/settings_language_labels"
+            android:entryValues="@array/settings_language_values"
+            android:key="@string/settings_language_key"
+            android:summary="%s"
+            android:title="@string/settings_language_label" />
+
+        <ListPreference
+            android:defaultValue="@string/settings_countries_default"
+            android:entries="@array/settings_countries_labels"
+            android:entryValues="@array/settings_countries_values"
+            android:key="@string/settings_countries_key"
+            android:summary="%s"
+            android:title="@string/settings_countries_label" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:fontFamily="@font/lato_bold"
+        android:textSize="16sp"
+        android:title="@string/covid_cases_preferences">
+
+        <ListPreference
+            android:defaultValue="@string/settings_region_default"
+            android:entries="@array/settings_region_labels"
+            android:entryValues="@array/settings_region_values"
+            android:key="@string/settings_region_key"
+            android:summary="%s"
+            android:title="@string/settings_region_label" />
+
+
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:fontFamily="@font/lato_bold"
+        android:textSize="16sp"
+        android:title="@string/reset">
+
+        <Preference
+            android:key="@string/settings_restore_key"
+            android:title="@string/settings_restore_label" />
+
+        <Preference
+            android:key="@string/settings_clear_key"
+            android:title="@string/settings_clear_label" />
+
+
+    </PreferenceCategory>
+
+
+</PreferenceScreen>
+

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/FINAL PROJECTS/CovidNewsTrackingApp/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/FINAL PROJECTS/CovidNewsTrackingApp/app/src/main/res/layout/activity_settings.xml" value="0.3625" />
+        <entry key="..\:/AndroidStudioProjects/FINAL PROJECTS/CovidNewsTrackingApp/app/src/main/res/layout/drawer_header.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/FINAL PROJECTS/CovidNewsTrackingApp/app/src/main/res/layout/fragment_covid_cases.xml" value="0.17806484295845998" />
+        <entry key="..\:/AndroidStudioProjects/FINAL PROJECTS/CovidNewsTrackingApp/app/src/main/res/menu/drawer_menu.xml" value="0.3625" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/FINAL PROJECTS/CovidNewsTrackingApp/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/FINAL PROJECTS/CovidNewsTrackingApp/app/src/main/res/layout/fragment_favorites_feed.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/FINAL PROJECTS/CovidNewsTrackingApp/app/src/main/res/layout/fragment_news_feed.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - FINAL/app/src/main/res/layout/drawer_header.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - FINAL/app/src/main/res/layout/list_view_covid.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - FINAL/app/src/main/res/layout/list_view_favorites.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - FINAL/app/src/main/res/layout/list_view_news.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - FINAL/app/src/main/res/menu/drawer_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - FINAL/app/src/main/res/xml/settings_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 2/app/src/main/res/layout/fragment_favorites_feed.xml" value="0.33238636363636365" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 2/app/src/main/res/layout/fragment_news_feed.xml" value="0.33605072463768115" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 2/app/src/main/res/layout/list_view_covid.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 2/app/src/main/res/layout/list_view_favorites.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 2/app/src/main/res/layout/list_view_news.xml" value="0.2046875" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 3/app/src/main/res/drawable/ic_baseline_all_inclusive_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 3/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 3/app/src/main/res/drawable/selector.xml" value="0.2140625" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 3/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 3/app/src/main/res/layout/activity_settings.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 3/app/src/main/res/layout/drawer_header.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 3/app/src/main/res/layout/fragment_covid_cases.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 3/app/src/main/res/layout/fragment_favorites_feed.xml" value="0.1" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 3/app/src/main/res/layout/fragment_news_feed.xml" value="0.1574074074074074" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 3/app/src/main/res/layout/list_view_covid.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 3/app/src/main/res/layout/list_view_favorites.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 3/app/src/main/res/layout/list_view_news.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 3/app/src/main/res/layout/settings_activity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 3/app/src/main/res/menu/drawer_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 3/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21145833333333333" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 3/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3828125" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 3/app/src/main/res/xml/settings_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 4/app/src/main/res/layout/activity_settings.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 4/app/src/main/res/layout/fragment_news_feed.xml" value="0.19427083333333334" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 4/app/src/main/res/layout/list_view_covid.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 4/app/src/main/res/xml/settings_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 6/app/src/main/res/drawable/drawer_item_color.xml" value="0.18125" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 6/app/src/main/res/drawable/drawer_item_highlight.xml" value="0.1" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 6/app/src/main/res/drawable/drawer_item_select.xml" value="0.1" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 6/app/src/main/res/drawable/ic_baseline_all_inclusive_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 6/app/src/main/res/drawable/ic_baseline_bookmark_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 6/app/src/main/res/drawable/ic_baseline_bookmark_border_24.xml" value="0.1" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 6/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.1" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 6/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.1" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 6/app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.1" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 6/app/src/main/res/drawable/ic_baseline_newspaper_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 6/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.1" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 6/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 6/app/src/main/res/drawable/selector.xml" value="0.18125" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 6/app/src/main/res/layout/activity_main.xml" value="0.3309659090909091" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 6/app/src/main/res/layout/activity_settings.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 6/app/src/main/res/layout/drawer_header.xml" value="0.5" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 6/app/src/main/res/layout/fragment_covid_cases.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 6/app/src/main/res/layout/fragment_favorites_feed.xml" value="0.19427083333333334" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 6/app/src/main/res/layout/fragment_news_feed.xml" value="0.19427083333333334" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 6/app/src/main/res/layout/list_view_covid.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 6/app/src/main/res/layout/list_view_favorites.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 6/app/src/main/res/layout/list_view_news.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 6/app/src/main/res/menu/drawer_menu.xml" value="0.3605128205128205" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List - 6/app/src/main/res/xml/settings_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List/app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List/app/src/main/res/drawable/toggle_button.xml" value="0.3828125" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List/app/src/main/res/layout/fragment_favorites_feed.xml" value="0.35507246376811596" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List/app/src/main/res/layout/fragment_news_feed.xml" value="0.35507246376811596" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject - Set List/app/src/main/res/layout/list_view_news.xml" value="0.35507246376811596" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3828125" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject/app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject/app/src/main/res/layout/activity_settings.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject/app/src/main/res/layout/drawer_header.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject/app/src/main/res/layout/fragment_covid_cases.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject/app/src/main/res/layout/fragment_favorites.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject/app/src/main/res/layout/fragment_news_feed.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject/app/src/main/res/layout/list_view_covid.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject/app/src/main/res/layout/list_view_news.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject/app/src/main/res/menu/drawer_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/BELLA/AndroidStudioProjects/GraysonsNewsAppProject/app/src/main/res/xml/settings_main.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

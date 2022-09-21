@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="?android:attr/listPreferredItemHeight"
+    android:layout_margin="2dp"
+    app:cardBackgroundColor="@color/white"
+    app:cardCornerRadius="4dp">
+
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="8dp"
+        android:divider="@drawable/ic_baseline_all_inclusive_24"
+        android:showDividers="middle"
+        android:stretchColumns="1, 2, 3, 4, 5">
+
+        <TableRow>
+
+
+            <TextView
+                android:id="@+id/covid_new_cases_text_view"
+                style="@style/covidCasesData"
+                android:layout_weight="2"
+                android:text="12200"
+                android:textColor="#00e100" />
+
+            <TextView
+                android:id="@+id/covid_location_text_view"
+                style="@style/covidCasesText"
+                android:layout_weight="5"
+                android:paddingStart="8dp"
+                android:text="Canada, BC"
+                android:textColor="@color/article_text" />
+
+            <TextView
+                android:id="@+id/covid_date_text_view"
+                style="@style/covidCasesText"
+                android:layout_weight="4"
+                android:gravity="start"
+                android:text="July 17, 2020"
+                android:textColor="@color/article_text"
+                android:textStyle="italic" />
+
+
+            <TextView
+                android:id="@+id/covid_total_text_view"
+                style="@style/covidCasesData"
+                android:layout_weight="2"
+                android:gravity="start"
+                android:text="12,000"
+                android:textColor="#ffd000" />
+
+            <TextView
+                android:id="@+id/covid_deaths_text_view"
+                style="@style/covidCasesData"
+                android:layout_weight="1.5"
+                android:gravity="end"
+                android:text="+145"
+                android:textColor="#d30000" />
+
+
+        </TableRow>
+
+
+    </TableLayout>
+
+
+</androidx.cardview.widget.CardView>

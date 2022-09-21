@@ -1,0 +1,149 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.GraysonsNewsAppProject" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/primary_blue</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="actionBarTheme">@style/ActionBarTheme</item>
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+    </style>
+
+    <style name="PreferenceScreen" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="android:textColorPrimary">@color/article_text</item>
+        <item name="android:textColorSecondary">#808080</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="actionBarTheme">@style/ActionBarTheme</item>
+        <item name="android:itemTextAppearance">@color/black</item>
+        <item name="colorPrimary">@color/highlight_orange</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">@color/highlight_orange</item>
+        <item name="android:background">@color/activity_background_color</item>
+    </style>
+
+    <style name="ActionBarTheme" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="android:background">@color/secondary_dark_blue</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="colorControlNormal">@color/white</item>
+        <item name="fontFamily">@font/lato_reg</item>
+    </style>
+
+
+    <style name="Theme.GraysonsNewsAppProject.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="drawer_menu">
+        <item name="android:listDivider">@color/menu_title_text_blue</item>
+        <item name="android:textColorSecondary">@color/menu_title_text_blue</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/drawer_item_color</item>
+    </style>
+
+
+    <style name="newsArticleTitle">
+        <item name="android:textColor">@color/article_text</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">@font/lato_reg</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:paddingTop">@dimen/article_text_padding_bottom</item>
+        <item name="android:paddingBottom">@dimen/article_text_padding_bottom</item>
+        <item name="android:paddingStart">@dimen/article_text_padding_start</item>
+        <item name="android:paddingEnd">@dimen/article_text_padding_start</item>
+    </style>
+
+
+    <style name="newsArticleAuthor">
+        <item name="android:textColor">@color/article_text</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">@font/lato_reg</item>
+        <item name="android:inputType">textCapWords|textCapSentences</item>
+        <item name="android:gravity">start</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:paddingBottom">4dp</item>
+        <item name="android:paddingEnd">@dimen/article_text_padding_start</item>
+        <item name="android:paddingStart">@dimen/article_text_padding_start</item>
+    </style>
+
+    <style name="newsArticleDate">
+        <item name="android:textColor">@color/article_text</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">@font/lato_bold</item>
+        <item name="android:inputType">datetime</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:paddingStart">@dimen/article_text_padding_start</item>
+        <item name="android:paddingBottom">@dimen/article_text_padding_bottom</item>
+    </style>
+
+    <style name="newsArticleImage">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:scaleType">centerCrop</item>
+        <item name="android:adjustViewBounds">true</item>
+    </style>
+
+    <style name="toggleButton">
+        <item name="android:layout_width">@dimen/button_size</item>
+        <item name="android:layout_height">@dimen/button_size</item>
+        <item name="android:textOn"></item>
+        <item name="android:textOff"></item>
+        <item name="android:paddingBottom">4dp</item>
+        <item name="android:paddingEnd">@dimen/article_text_padding_bottom</item>
+    </style>
+
+    <style name="covidCasesText">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_column">1</item>
+        <item name="fontFamily">@font/lato_reg</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="covidCasesData">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_column">1</item>
+        <item name="fontFamily">@font/lato_bold</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="noListTextView">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:fontFamily">@font/lato_reg</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="covidCaseTable">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_column">1</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="fontFamily">@font/lato_bold</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/article_text</item>
+
+    </style>
+
+    <style name="drawerTitle">
+        <item name="android:textColor">@color/menu_text_blue</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">@font/lato_reg</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:padding">@dimen/article_text_padding_bottom</item>
+        <item name="android:shadowColor">@color/black</item>
+        <item name="android:shadowRadius">22</item>
+    </style>
+
+
+</resources>
