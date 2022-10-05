@@ -1,5 +1,5 @@
 # Covid News Tracking App
-Built with Java, this Android application allows users to get up-to-date COVID data from their region by parsing the JSON response from multiple news API’s. This project was built without the use of external libraries and utilizes SharedPreferences to save the users bookmarked articles.
+Built with Java, this Android application allows users to get up-to-date COVID data from their region by parsing the JSON response from multiple news APIs. This project was built without the use of external libraries and utilizes SharedPreferences to save the users bookmarked articles.
 
 You can choose to view:
 - Top Covid-19 News Stories
