@@ -12,7 +12,7 @@ This fragment uses the mediastack.com API to populate a RecyclerView and allows 
 
 
 # Covid-19 Cases Fragment
-This fragment uses the opencovid.ca API to populate a RecyclerView with the latest new Covid-19 case numbers that is sorted by province. 
+This fragment uses the opencovid.ca API to populate a RecyclerView with the latest Covid-19 case numbers and sorts it by province. 
 
 <img src="./images/secondscreen.jpg" width="35%">
 
