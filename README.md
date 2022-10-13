@@ -18,13 +18,13 @@ This fragment uses the opencovid.ca API to populate a RecyclerView with the late
 
 
 # Bookmarked Fragment
-This fragment loads a list of bookmarked articles which is stored within SharedPreferences. Users can remove individual articles by clicking on the trash icon.
+Users have the option to bookmark articles which is then stored within SharedPreferences, allowing for offline access.
 
 <img src="./images/bookmarkscreen.jpg" width="35%">
 
 
 # Preferences Fragment
-This fragment allows the user to select location and language settings for the articles populated within the Covid-19 News Fragment and can also choose to limit the data shown in the Covid-19 Cases Fragment to a specific province. From this screen you are also able to restore the default preference settings and clear all the saved articles from the Bookmarked Fragment.
+Here users can select location and language settings for the articles populated within the Covid-19 News Fragment and can also choose to limit the data shown in the Covid-19 Cases Fragment to a specific province. From this screen you are also able to restore the default preference settings and clear all the saved articles from the Bookmarked Fragment.
 
 <img src="./images/preferencescreen.jpg" width="35%">
 
